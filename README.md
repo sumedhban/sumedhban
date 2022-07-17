@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumedhban
-- 👀 I’m interested in cloud, security
+- 👀 I’m interested in data science, machine learning
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on real time cloud projects.
+- 💞️ I’m looking to collaborate on real time data science and machine learning projects.
 - 📫 How to reach me +1 916 829 0054
 
 <!---
